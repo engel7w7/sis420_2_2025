@@ -40,3 +40,6 @@ SwarmCache/
 
 # Metadata files
 *.meta
+
+# Archivos pesados fuera del control de Git
+pathmnist.npz
