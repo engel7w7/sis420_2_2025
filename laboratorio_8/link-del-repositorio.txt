@@ -1,0 +1,3 @@
+link del repositorio correspondiente al laboratorio_8:
+
+- https://github.com/engel7w7/sis420_2_2025/tree/main/laboratorio_8
