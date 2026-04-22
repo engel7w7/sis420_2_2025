@@ -43,3 +43,8 @@ SwarmCache/
 
 # Archivos pesados fuera del control de Git
 pathmnist.npz
+
+*.zip
+*.tar.gz
+
+examen-practico-sis420-Romero-Morales-Jhojan-Erick/
